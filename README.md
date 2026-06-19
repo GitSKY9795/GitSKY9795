@@ -1,109 +1,133 @@
+<div align="center">
 
-# 🚀 Sumeet Kumar Yadav | Backend Developer
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Sumeet Kumar Yadav
 
-> **AWS Certified Cloud Practitioner | Backend Developer | DevOps Enthusiast**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=900&lines=Backend+Developer;AWS+Certified+Cloud+Practitioner;DevOps+Enthusiast;Node.js+%7C+React+%7C+Express;Docker+%7C+AWS+%7C+MongoDB;Always+Learning+Something+New+🚀"/>
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Backend+Developer;AWS+Certified;DevOps+Enthusiast;Node.js+%7C+React+%7C+Docker+%7C+AWS;Always+Learning+New+Things"/>
-</p>
+<br>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=GitSKY9795&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/GitSKY9795?style=for-the-badge"/>
-<img src="https://img.shields.io/github/stars/GitSKY9795?style=for-the-badge"/>
-</p>
+<img src="https://img.shields.io/github/followers/GitSKY9795?style=for-the-badge&logo=github&color=00C2FF">
 
----
+<img src="https://img.shields.io/github/stars/GitSKY9795?style=for-the-badge&logo=github&color=FFD700">
 
-# 👨‍💻 About Me
+<img src="https://komarev.com/ghpvc/?username=GitSKY9795&style=for-the-badge&color=blueviolet">
 
-- 🎓 B.Tech CSE Student
-- ☁ AWS Certified Cloud Practitioner
-- 💻 Backend Developer (Node.js, Express)
-- 🐳 Learning Kubernetes & Microservices
-- 🚀 Interested in Cloud Infrastructure and DevOps
+</div>
 
 ---
 
-# 🛠 Tech Stack
+# 💫 About Me
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,mysql,docker,kubernetes,aws,linux,git,github,githubactions,redis,postman,vscode,cpp,python"/>
-</p>
+<img align="right" width="380" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
----
+```cpp
+class Sumeet{
 
-# 📈 GitHub Stats
+public:
 
-<p align="center">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=GitSKY9795&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GitSKY9795&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+string role = "Backend Developer";
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=GitSKY9795&theme=tokyonight&hide_border=true"/>
-</p>
+string college = "KIET Group of Institutions";
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=GitSKY9795&theme=tokyo-night"/>
-</p>
+string certification = "AWS Certified Cloud Practitioner";
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=GitSKY9795&theme=tokyonight&row=2&column=4"/>
-</p>
+vector<string> skills = {
 
----
+"Node.js",
 
-# 🚀 Featured Projects
+"Express",
 
-## DevOps Project
-Production-ready deployment using Docker, AWS EC2, ECR, Auto Scaling, Load Balancer and GitHub Actions.
+"React",
 
-https://github.com/GitSKY9795/devopsProject
+"MongoDB",
 
-## Ledgered
-JWT Authentication Banking Backend.
+"AWS",
 
-https://github.com/GitSKY9795/Ledgered
+"Docker",
 
----
+"GitHub Actions"
 
-# 📚 Currently Learning
+};
 
-- Kubernetes
-- Redis
-- RabbitMQ
-- Go
-- System Design
+string currentlyLearning =
 
----
+"Kubernetes • System Design • Redis";
 
-# 🎯 Goals
+};
+```
 
-- Crack SDE Internship
-- Master Kubernetes
-- Learn Go
-- Build scalable backend systems
-- Contribute to Open Source
+- 🚀 Backend Developer passionate about scalable applications.
+
+- ☁ AWS Certified Cloud Practitioner.
+
+- 💻 Building production-ready backend applications.
+
+- 🌱 Currently learning Kubernetes and System Design.
+
+- 🎯 Goal: Software Development Engineer.
+
+<br clear="right"/>
 
 ---
 
-# 🐍 Contribution Snake
+# ⚡ Tech Stack
 
-Create a GitHub Action to generate:
+<div align="center">
 
-```html
-<img src="https://raw.githubusercontent.com/GitSKY9795/GitSKY9795/output/github-contribution-grid-snake.svg">
+### Languages
+
+<img src="https://skillicons.dev/icons?i=cpp,c,js,ts,python"/>
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind"/>
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+
+### Database
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
+
+### Cloud & DevOps
+
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,githubactions"/>
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
+
+</div>
+
+---
+
+# 🚀 Currently Working On
+
+```text
+██████████████████████████░░  Backend Development
+
+██████████████████████░░░░░░  AWS Cloud
+
+████████████████████░░░░░░░░  Docker
+
+█████████████████░░░░░░░░░░░  Kubernetes
+
+███████████████░░░░░░░░░░░░░  System Design
 ```
 
 ---
 
-# 🌐 Connect
+# 🎯 2026 Goals
 
-- GitHub: https://github.com/GitSKY9795
-- LinkedIn: Add your profile
-- Email: Add your email
+✅ Crack a Product-Based Company Internship
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=140&section=footer"/>
-</p>
+✅ Become a Backend Engineer
+
+✅ Learn Kubernetes
+
+✅ Master AWS
+
+✅ Contribute to Open Source
+
+---
