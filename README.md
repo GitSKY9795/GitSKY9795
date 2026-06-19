@@ -1,213 +1,109 @@
-<div align="center">
 
-# Hi 👋, I'm Sumeet Kumar Yadav
+# 🚀 Sumeet Kumar Yadav | Backend Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Backend+Developer;AWS+Certified+Cloud+Practitioner;DevOps+Enthusiast;Building+Scalable+Web+Applications" />
+> **AWS Certified Cloud Practitioner | Backend Developer | DevOps Enthusiast**
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=GitSKY9795&label=Profile%20Views&color=0e75b6&style=flat" />
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Backend+Developer;AWS+Certified;DevOps+Enthusiast;Node.js+%7C+React+%7C+Docker+%7C+AWS;Always+Learning+New+Things"/>
 </p>
 
-</div>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=GitSKY9795&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/GitSKY9795?style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/GitSKY9795?style=for-the-badge"/>
+</p>
 
 ---
 
-# 🚀 About Me
+# 👨‍💻 About Me
 
-- 🎓 B.Tech Computer Science Student
+- 🎓 B.Tech CSE Student
 - ☁ AWS Certified Cloud Practitioner
-- 💻 Passionate about Backend Development & Cloud Computing
-- 🐳 Exploring Docker, Kubernetes & DevOps
-- 🌱 Currently learning scalable system design
-- ⚡ Love building production-ready web applications
+- 💻 Backend Developer (Node.js, Express)
+- 🐳 Learning Kubernetes & Microservices
+- 🚀 Interested in Cloud Infrastructure and DevOps
 
 ---
 
 # 🛠 Tech Stack
 
-## Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=js,cpp,c,python" />
-</p>
-
-## Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
-</p>
-
-## Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-## Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
-
-## Cloud & DevOps
-
-<p>
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions,linux,bash" />
-</p>
-
-## Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,mysql,docker,kubernetes,aws,linux,git,github,githubactions,redis,postman,vscode,cpp,python"/>
 </p>
 
 ---
 
-# 📌 Featured Projects
+# 📈 GitHub Stats
 
-## 🚀 DevOps Project
+<p align="center">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=GitSKY9795&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GitSKY9795&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
-Production-ready Node.js application deployed on AWS.
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=GitSKY9795&theme=tokyonight&hide_border=true"/>
+</p>
 
-**Tech Stack**
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GitSKY9795&theme=tokyo-night"/>
+</p>
 
-- Node.js
-- Express
-- MongoDB
-- Docker
-- AWS EC2
-- ECR
-- Auto Scaling
-- Load Balancer
-- GitHub Actions
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=GitSKY9795&theme=tokyonight&row=2&column=4"/>
+</p>
 
-🔗 Repository
+---
+
+# 🚀 Featured Projects
+
+## DevOps Project
+Production-ready deployment using Docker, AWS EC2, ECR, Auto Scaling, Load Balancer and GitHub Actions.
 
 https://github.com/GitSKY9795/devopsProject
 
----
-
-## 🏦 Ledgered
-
-Secure Banking Authentication System.
-
-**Features**
-
-- JWT Authentication
-- Login & Signup
-- Protected Routes
-- MongoDB
-- Express
-
-🔗 Repository
+## Ledgered
+JWT Authentication Banking Backend.
 
 https://github.com/GitSKY9795/Ledgered
-
----
-
-## 📈 GitHub Statistics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=GitSKY9795&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GitSKY9795&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=GitSKY9795&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 📊 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=GitSKY9795&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=GitSKY9795&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</div>
-
----
-
-# 🌟 Current Focus
-
-```text
-✅ Backend Development
-
-███████████████████░ 95%
-
-✅ AWS
-
-█████████████████░░░ 90%
-
-✅ Docker
-
-████████████████░░░░ 85%
-
-✅ Kubernetes
-
-██████████████░░░░░░ 75%
-
-✅ System Design
-
-█████████████░░░░░░░ 70%
-```
 
 ---
 
 # 📚 Currently Learning
 
 - Kubernetes
-- System Design
-- CI/CD Pipelines
-- Microservices
 - Redis
 - RabbitMQ
+- Go
+- System Design
 
 ---
 
-# 🤝 Connect With Me
+# 🎯 Goals
 
-<p align="left">
+- Crack SDE Internship
+- Master Kubernetes
+- Learn Go
+- Build scalable backend systems
+- Contribute to Open Source
 
-<a href="YOUR_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
+---
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://skillicons.dev/icons?i=gmail" />
-</a>
+# 🐍 Contribution Snake
 
-<a href="https://github.com/GitSKY9795">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
+Create a GitHub Action to generate:
 
+```html
+<img src="https://raw.githubusercontent.com/GitSKY9795/GitSKY9795/output/github-contribution-grid-snake.svg">
+```
+
+---
+
+# 🌐 Connect
+
+- GitHub: https://github.com/GitSKY9795
+- LinkedIn: Add your profile
+- Email: Add your email
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=140&section=footer"/>
 </p>
-
----
-
-<div align="center">
-
-### 💡 "Code. Build. Deploy. Repeat."
-
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="300"/>
-
-</div>
